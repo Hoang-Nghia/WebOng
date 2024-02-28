@@ -1,0 +1,46 @@
+#XeTang{
+    border: 10px solid white;
+    width: 920px;
+    
+ }
+#bongden{
+   background-image: url(images/header.jpg);
+   height: 240px;
+
+}
+#Menu{
+   background-color: #212226;
+   color: white;
+   height: 51px;
+}
+#divMenu{
+    float:left;
+    padding: 17px;
+    width: 109px;
+    
+}
+#Bentrai{
+    float: left;
+    color:white;
+    /* margin-left:200px; */
+   text-align: left;
+   
+}
+#benphai{
+    
+    float: left;
+    background-color: white;
+    height: 192px;
+    width: 718px;
+    font-size: 10px;
+    color: blue;
+    text-align: center;
+     
+}
+#Dienthoai{
+    
+    background-image: url(images/menu_bg.jpg);
+    border: 1px solid white;
+    width: 200px;
+    height: 30px;
+}
